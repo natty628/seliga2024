@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(12, 11, 0);
+    color: rgb(104, 2, 151);
+}
+h1{
+    color: rgb(111, 0, 255);
+}
+section{
+    background: rgb(12, 11, 0);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
